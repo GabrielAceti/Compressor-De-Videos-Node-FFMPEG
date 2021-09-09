@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/GabrielAceti/Compressor-De-Videos-Node-FFMPEG/issues"
   },
-  "homepage": "https://github.com/GabrielAceti/Compressor-De-Videos-Node-FFMPEG#readme"
+  "homepage": "https://github.com/GabrielAceti/Compressor-De-Videos-Node-FFMPEG#readme",
+  "dependencies": {
+    "ffmpeg": "0.0.4"
+  }
 }
